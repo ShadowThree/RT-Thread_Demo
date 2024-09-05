@@ -12,3 +12,4 @@
 2. [STM32V6_Flash_FatFS](./STM32V6_Flash_FatFS/)
 3. [STM32V6_SDcard_FatFS](./STM32V6_SDcard_FatFS/)
 4. [STM32V6_RAM_ROM_FatFS](./STM32V6_RAM_ROM_FatFS/)
+5. [STM32V6_FatFS_SDcard_as_Udisk](./STM32V6_FatFS_SDcard_as_Udisk/)
